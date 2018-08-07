@@ -3,7 +3,7 @@
 ## Researchers
 ### China
 1. Lei Wang, Institute of Physics, CAS
-Computational quantum physics, Machine Learning
+Computational quantum physics, Machine Learning   
 http://wangleiphy.github.io/
 
 2. Zhi-Yuan Xie
@@ -26,10 +26,10 @@ http://wangleiphy.github.io/
 4. Artificial Intelligence and Quantum Physics, Nanjing University, 2017 Dec
 
 ## Abroad
-1. [NIPS 2017 Workshop] Machine Learning for Molecules and Materials, December 8, 2017
+1. [NIPS 2017 Workshop] Machine Learning for Molecules and Materials, December 8, 2017   
 http://www.quantum-machine.org/workshops/nips2017/
 
-2. [NIPS 2017 Workshop] Deep Learning for Physical Sciences, December 8, 2017
+2. [NIPS 2017 Workshop] Deep Learning for Physical Sciences, December 8, 2017   
 https://dl4physicalsciences.github.io/
 
 ## Info Resources

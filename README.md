@@ -1,4 +1,4 @@
-# Things-about-ML-and-Physics
+# Things about ML and Physics
 
 ## Researchers
 ### China
@@ -8,7 +8,7 @@ http://wangleiphy.github.io/
 
 2. Zhi-Yuan Xie
 
-## Abroad
+### Abroad
 
 ### Peers
 1. Zhao-Yu Han, PKU

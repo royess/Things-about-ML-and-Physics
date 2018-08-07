@@ -25,7 +25,7 @@ http://wangleiphy.github.io/
 3. (Participated) Machine Learning and Physics, Tsinghua IAS(清华大学高等研究院), 2018 July
 4. Artificial Intelligence and Quantum Physics, Nanjing University, 2017 Dec
 
-## Abroad
+### Abroad
 1. [NIPS 2017 Workshop] Machine Learning for Molecules and Materials, December 8, 2017   
 http://www.quantum-machine.org/workshops/nips2017/
 
@@ -33,5 +33,5 @@ http://www.quantum-machine.org/workshops/nips2017/
 https://dl4physicalsciences.github.io/
 
 ## Info Resources
-Datasets, Publications, Software: http://www.quantum-machine.org/
+Datasets, Publications, Software: http://www.quantum-machine.org/   
 Recent Papers: https://physicsml.github.io/pages/papers.html
